@@ -1,5 +1,5 @@
-// Jakarta
-var coords = [106.822864, -6.176132];
+// Manhattan
+var coords = [40.739940, -73.988801];
 
 var world = VIZI.world('world', {
   skybox: false,
